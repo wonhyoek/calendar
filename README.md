@@ -1,1 +1,3 @@
-# final-project-calendar
+# 구글 캘린더를 클론해본 프로젝트입니다.
+spring boot, spring data jpa를 이용하여 책임과 역할을 확실히 나눠 계층적 구조를 갖도록 설계를 해보았습니다.
+
